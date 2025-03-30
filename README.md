@@ -1,7 +1,5 @@
-# Predict-the-demand_for_building_consumption
+# Predict-the-demand_for_building_consumption : Anticipate Building Energy Consumption Needs
 
-
-# Anticipate Building Energy Consumption Needs
 
 The city of Seattle aims to achieve carbon neutrality by 2050. To this end, we have been tasked with developing a predictive model for CO₂ emissions and total energy consumption of non-residential buildings, without relying on energy readings, which are costly to obtain.
 
